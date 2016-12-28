@@ -1,0 +1,29 @@
+{
+  "name": "react-monaco-typescript",
+  "version": "1.0.0",
+  "description": "The Microsoft Monaco editor as a React Component, in TypeScript!",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwulf/react-monaco-typescript.git"
+  },
+  "keywords": [
+    "monaco",
+    "editor",
+    "typescript",
+    "react"
+  ],
+  "author": "Joshua Wulf and Ian Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwulf/react-monaco-typescript/issues"
+  },
+  "homepage": "https://github.com/jwulf/react-monaco-typescript#readme",
+  "dependencies": {
+     "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  }
+}
